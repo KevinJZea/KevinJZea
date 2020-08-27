@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: you can email me (kevinjzea@gmail.com) or send me a message to my LinkedIn (linkedin.com/in/kevinjzea/)
+- 📫 How to reach me: email me (kevinjzea@gmail.com) or send me a message to my LinkedIn (linkedin.com/in/kevinjzea/)
 
 <!--
 **KevinJZea/KevinJZea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
