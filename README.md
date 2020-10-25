@@ -3,7 +3,7 @@
  Student at Platzi Master 
 
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Frontend
 - 📫 How to reach me: email me (kevinjzea@gmail.com) or send me a message to my LinkedIn (linkedin.com/in/kevinjzea/)
 
 <!--
