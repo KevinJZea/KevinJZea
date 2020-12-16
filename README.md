@@ -3,7 +3,7 @@
  Front-End Developer * Web Development * Student at Platzi Master 
 
 
-- 📫 How to reach me: [email](kevinjzea@gmail.com) me or send me a message to my [LinkedIn](linkedin.com/in/kevinjzea/).
+- 📫 How to reach me: email me (kevinjzea@gmail.com) or send me a message to my [LinkedIn](https://linkedin.com/in/kevinjzea/).
 
 
 <!--
