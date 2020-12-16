@@ -1,10 +1,10 @@
 ### Hi! I'm Kevin J. Zea  👋
 
- Student at Platzi Master 
+ Front-End Developer * Web Development * Student at Platzi Master 
 
 
-- 🌱 I’m currently learning Frontend
-- 📫 How to reach me: email me (kevinjzea@gmail.com) or send me a message to my LinkedIn (linkedin.com/in/kevinjzea/)
+- 📫 How to reach me: [email](kevinjzea@gmail.com) me or send me a message to my [LinkedIn](linkedin.com/in/kevinjzea/).
+
 
 <!--
 **KevinJZea/KevinJZea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
