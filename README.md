@@ -1,6 +1,8 @@
 ### Hi! I'm Kevin J. Zea  👋
 
- Front-End Developer * Web Development * Student at Platzi Master 
+I am a Front-End developer, specialized in React.js.
+
+Currently, student at [Platzi Master](https://platzi.com/blog/que-es-platzi-master), the [Platzi](https://platzi.com/)'s elite program exclusive to the top 0.1% of the students on the platform, developing skills in React.js, Sass, Git & GitHub, and working within the Scrum agile methodology. 
 
 
 - 📫 How to reach me: email me (kevinjzea@gmail.com) or send me a message to my [LinkedIn](https://linkedin.com/in/kevinjzea/).
