@@ -7,15 +7,13 @@ Currently, student at [Platzi Master](https://platzi.com/blog/que-es-platzi-mast
 In other words...
 
 ```javascript
-var kevinjzea = {
+const kevinjzea = {
   code: ["Javascript", "HTML", "CSS"],
   tools: ["React"],
   preprocessor: ["SASS"],
   agileMethodologies: ["Scrum"],
 }
 ```
-
-P.S: Naturally, these will change. That's why it isn't a `const`. 
 
 
 ## 📫 Contact me
