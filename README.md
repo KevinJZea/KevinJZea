@@ -17,7 +17,7 @@ const kevinjzea = {
 
 <hr>
 
-<h3>&nbsp;My Projects</h3>
+<h3>My Projects</h3>
 
 <h4><a href="https://art-hispano.web.app/">Art-Hispano</a> </h4>
 <p>Marketplace which has the purpose to provide to Latinamerican native communities a platform where they can share their culture and sell their craft. Go and take a look here -> <a href="https://art-hispano.web.app/">Marketplace</a><br /><a href="https://github.com/KevinJZea/C6-art-hispano">Link to repository</a>.</p>
