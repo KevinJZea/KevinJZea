@@ -42,7 +42,7 @@ const kevinjzea = {
 <p>The place where you can find excellent ideas for new personal and social projects. Check it out here -> <a href="https://i-am-bored-app.web.app/">Your new personal project</a><br /><a href="https://github.com/KevinJZea/i-am-bored-app">Link to repository</a>. (Mobile version available).</p>
 
 <h4>👑 <a href="http://kevinjzea.com/simon-says/index.html">Simon Says</a></h4>
-<p>Game where the computer (Simon) will tell you a sequence of colors you should follow. Play the game here -> <a href="https://kevinjzea.com/simon-says/index.html">Game</a><br /><a href="https://github.com/KevinJZea/simon-says">Link to repository</a>. (Mobile, Tablet and Desktop versions available).</p>
+<p>Game where the computer (Simon) will tell you a sequence of colors you should follow. Play the game here -> <a href="http://kevinjzea.com/simon-says/index.html">Game</a><br /><a href="https://github.com/KevinJZea/simon-says">Link to repository</a>. (Mobile, Tablet and Desktop versions available).</p>
 
 
 <hr>
