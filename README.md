@@ -1,4 +1,4 @@
-<h1 align="center"> Hi! I'm Kevin J. Zea  👋</h1>
+<h1 align="center"> Hi! I am Kevin J. Zea  👋</h1>
 
 I am a Front-End developer, specialized in React.js.
 
@@ -32,7 +32,10 @@ const kevinjzea = {
 
 <h2 align="center">💼 My Projects</h2>
 
-<h4><a href="https://art-hispano.web.app/">Art-Hispano</a> </h4>
+<h4>🎥 <a href="https://fakeflix-kjz.web.app/">Fakeflix</a> </h4>
+<p>Netflix Clone made with HTML, CSS & JavaScript Vanillla (no frameworks nor preprocessors). Watch your favorite movie/series right here -> <a href="https://fakeflix-kjz.web.app/">Fakeflix</a><br /><a href="https://github.com/KevinJZea/fakeflix">Link to repository</a>. (Desktop version available).</p>
+
+<h4>🛒 <a href="https://art-hispano.web.app/">Art-Hispano</a> </h4>
 <p>Marketplace which has the purpose to provide to Latinamerican native communities a platform where they can share their culture and sell their craft. Go and take a look here -> <a href="https://art-hispano.web.app/">Marketplace</a><br /><a href="https://github.com/KevinJZea/C6-art-hispano">Link to repository</a>. (Desktop version available).</p>
 
 <h4>🐊 <a href="https://learningator.web.app/">Learningator</a></h4>
