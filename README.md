@@ -55,10 +55,13 @@ const kevinjzea = {
 <dl align="justify">
   
   <dt><a href="https://platzi.com/p/kevinjzea">My Platzi Profile</a></dt>
-    <dd>Here, you can see the courses I have approved at Platzi.</dd>
+    <dd>Here, you can see the courses I have approved on Platzi.</dd>
 
   <dt><a href="https://hackerrank.com/kevinjzea">My HackerRank Profile</a></dt>
-    <dd>Here, you can see the badges I have taken and the exercises I have completed at HackerRank.</dd>
+    <dd>Here, you can see the badges I have taken and the exercises I have completed on HackerRank.</dd>
+    
+  <dt><a href="https://en.duolingo.com/profile/KevinJZea">My Duolingo Profile</a></dt>
+    <dd>Here, you can see the languages I have been learning on Duolingo.</dd>
  
  </dl>
 
