@@ -1,8 +1,12 @@
-<h1 align="center"> Hi! I am Kevin J. Zea  👋</h1>
+<h1 align="start"> Hi! I am Kevin J. Zea  👋</h1>
 
-I am a Front-End developer, specialized in React.js.
+Frontend Developer with over 2 years of experience in the tech industry. Passionate about crafting visually captivating, user-centric, and accessible software applications. Seeking for building digital experiences that are not only visually appealing but also inclusive for all users.
 
-Currently, student at [Platzi Master](https://platzi.com/blog/que-es-platzi-master), the Platzi's elite program exclusive to the top 0.1% of the students on the platform, developing skills in React.js, Sass, Git & GitHub, and working within the Scrum agile methodology. 
+Aspiring to become an Accessibility Expert, I am committed to making technology more accessible to people of all abilities. I prioritize design, usability, and accessibility principles in every project, ensuring that our digital products deliver an exceptional user experience.
+
+With a genuine appreciation for design aesthetics and a deep understanding of Frontend development, I look for bring creativity and functionality together. My aspiration is to continually explore and expand the horizons of user interface design, with the aim of making every interaction a delightful journey.
+
+I'm not just a developer; I'm a design enthusiast, a problem solver, a creative thinker, and a collaborator who thrives on building innovative solutions to real-world challenges. Let's connect and build a more accessible, user-friendly digital world together.
 
 <hr>
 
@@ -10,9 +14,16 @@ Currently, student at [Platzi Master](https://platzi.com/blog/que-es-platzi-mast
 
 <p align="center">
     <img src="https://img.shields.io/badge/html5%20-%23ff470f.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/css3%20-%232ea7d9.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/javascript%20-%23eed915.svg?&style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript badge" />
-    <img src="https://img.shields.io/badge/react%20-%2361dafb.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="Sass" />
+    <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
     <img src="https://img.shields.io/badge/git-9E1C00?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     <img src="https://img.shields.io/badge/github%20-%230d1117.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
@@ -21,10 +32,8 @@ In code words...
 
 ```javascript
 const kevinjzea = {
-  code: ["HTML", "CSS", "JavaScript", "React"],
-  preprocessor: ["SASS"],
-  agileMethodologies: ["Scrum"],
-  languages: ["Spanish", "English", "Portuguese", "French"],
+  code: ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Next.js", "Sass", "Tailwind CSS"],
+  languages: ["Spanish", "English", "Portuguese"],
 }
 ```
 
@@ -36,7 +45,7 @@ const kevinjzea = {
 <p>Netflix Clone made with HTML, CSS & JavaScript Vanillla (no frameworks nor preprocessors).<br />Watch your favorite movie/series right here -> <a href="https://fakeflix-kjz.web.app/">Fakeflix</a><br /><a href="https://github.com/KevinJZea/fakeflix">Link to repository</a>. (Desktop version available).</p>
 
 <h4>🛒 <a href="https://art-hispano.web.app/">Art-Hispano</a> </h4>
-<p>Marketplace which has the purpose to provide to Latinamerican native communities a platform where they can share their culture and sell their craft. Go and take a look here -> <a href="https://art-hispano.web.app/">Marketplace</a><br /><a href="https://github.com/KevinJZea/C6-art-hispano">Link to repository</a>. (Desktop version available).</p>
+<p>Marketplace built with React which provides to Latinamerican native communities a platform where they can share their culture and sell their crafts.<br />Go and take a look here -> <a href="https://art-hispano.web.app/">Marketplace</a><br /><a href="https://github.com/KevinJZea/C6-art-hispano">Link to repository</a>. (Desktop version available).</p>
 
 <h4>🐊 <a href="https://learningator.web.app/">Learningator</a></h4>
 <p>Its purpose is to provide to Platzi Master students a software where their learning paths would be created according to their professional area and goals. Take a look here -> <a href="https://learningator.web.app/">Project</a><br /><a href="https://github.com/KevinJZea/learning-200-frontend">Link to repository</a>. (Desktop version available).</p>
@@ -53,7 +62,6 @@ const kevinjzea = {
 <h2 align="center">🏆 My Progress</h2>
 
 <dl align="justify">
-  
   <dt><a href="https://platzi.com/p/kevinjzea">My Platzi Profile</a></dt>
     <dd>Here, you can see the courses I have approved on Platzi.</dd>
 
@@ -62,7 +70,6 @@ const kevinjzea = {
     
   <dt><a href="https://en.duolingo.com/profile/KevinJZea">My Duolingo Profile</a></dt>
     <dd>Here, you can see the languages I have been learning on Duolingo.</dd>
- 
  </dl>
 
 <!--  -->
