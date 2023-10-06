@@ -31,7 +31,7 @@ In code words...
 
 ```javascript
 const kevinjzea = {
-  code: ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Next.js", "Sass", "Tailwind CSS"],
+  code: ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Redux", "Next.js", "Sass", "Tailwind CSS"],
   languages: ["Spanish", "English", "Portuguese"],
 }
 ```
@@ -40,11 +40,14 @@ const kevinjzea = {
 
 <h2 align="center">💼 My Projects</h2>
 
+<h4>🐾 <a href="https://pokedex.kevinjzea.com/">Pok&eacute;dex</a> </h4>
+<p>Explore this Pok&eacute;dex app, crafted with passion using React, TypeScript, Redux Toolkit, React Router, and pure CSS. Dive into the Pokémon world and start your adventure today! Catch 'em all here -> <a href="https://pokedex.kevinjzea.com/">Pok&eacute;dex</a><br /><a href="https://github.com/KevinJZea/pokedex">Link to repository</a>. (Desktop and mobile version available).</p>
+
 <h4>🎥 <a href="https://fakeflix-kjz.web.app/">Fakeflix</a> </h4>
-<p>Netflix Clone made with HTML, CSS & JavaScript Vanillla (no frameworks nor preprocessors).<br />Watch your favorite movie/series right here -> <a href="https://fakeflix-kjz.web.app/">Fakeflix</a><br /><a href="https://github.com/KevinJZea/fakeflix">Link to repository</a>. (Desktop version available).</p>
+<p>Netflix Clone made with HTML, CSS & JavaScript Vanilla (no frameworks nor preprocessors).<br />Watch your favorite movie/series right here -> <a href="https://fakeflix-kjz.web.app/">Fakeflix</a><br /><a href="https://github.com/KevinJZea/fakeflix">Link to repository</a>. (Desktop version available).</p>
 
 <h4>🛒 <a href="https://art-hispano.web.app/">Art-Hispano</a> </h4>
-<p>Marketplace built with React which provides to Latinamerican native communities a platform where they can share their culture and sell their crafts.<br />Go and take a look here -> <a href="https://art-hispano.web.app/">Marketplace</a><br /><a href="https://github.com/KevinJZea/C6-art-hispano">Link to repository</a>. (Desktop version available).</p>
+<p>Marketplace built with React which provides to Latinamerican native communities a platform where they can share their culture and sell their crafts. Go and take a look here -> <a href="https://art-hispano.web.app/">Marketplace</a><br /><a href="https://github.com/KevinJZea/C6-art-hispano">Link to repository</a>. (Desktop version available).</p>
 
 <h4>🐊 <a href="https://learningator.web.app/">Learningator</a></h4>
 <p>Its purpose is to provide to Platzi Master students a software where their learning paths would be created according to their professional area and goals. Take a look here -> <a href="https://learningator.web.app/">Project</a><br /><a href="https://github.com/KevinJZea/learning-200-frontend">Link to repository</a>. (Desktop version available).</p>
