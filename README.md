@@ -13,26 +13,32 @@ I'm not just a developer; I'm a design enthusiast, a problem solver, a creative 
 <h2 align="center">🛠 Technologies & Tools</h2>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/html5%20-%23ff470f.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/HTML5-A62707?&style=for-the-badge&logo=html5&logoColor=fff" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-005b94?style=for-the-badge&logo=css3" alt="CSS3" />
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="Sass" />
-    <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
-    <img src="https://img.shields.io/badge/git-9E1C00?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/github%20-%230d1117.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/TypeScript-255A93?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/React_Router-a42d2f?style=for-the-badge&logo=reactrouter&logoColor=fff" alt="React Router" />
+    <img src="https://img.shields.io/badge/Redux-6A43A8?style=for-the-badge&logo=redux" alt="Redux" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-055E85?style=for-the-badge&logo=tailwindcss&logoColor=fff" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/SASS-933665?style=for-the-badge&logo=sass&logoColor=fff" alt="Sass" />
+    <img src="https://img.shields.io/badge/MUI-0057AD?style=for-the-badge&logo=mui&logoColor=fff" alt="Material UI" />
+    <img src="https://img.shields.io/badge/Vite-444ac1?style=for-the-badge&logo=vite&logoColor=fff" alt="Vite" />
+    <img src="https://img.shields.io/badge/Node.js-222?style=for-the-badge&logo=nodedotjs&logoColor=8fd289" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express" alt="Express.js" />
+    <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio" alt="Socket.io" />
+    <img src="https://img.shields.io/badge/Jest-8F3D56?style=for-the-badge&logo=jest" alt="Jest" />
+    <img src="https://img.shields.io/badge/Git-AB240D?style=for-the-badge&logo=git&logoColor=fff" alt="Git" />
+    <img src="https://img.shields.io/badge/GitHub-010101?&style=for-the-badge&logo=github" alt="GitHub" />
 </p>
 
 In code words...
 
 ```javascript
 const kevinjzea = {
-  code: ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Redux", "Next.js", "Sass", "Tailwind CSS"],
-  languages: ["Spanish", "English", "Portuguese"],
+  code: ['HTML', 'CSS','JavaScript', 'TypeScript', 'React', 'Redux', 'Next.js', 'Sass', 'Tailwind CSS', 'Node.js', 'Express', 'Socket.io'],
+  languages: ['Spanish', 'English', 'Portuguese'],
 }
 ```
 
@@ -40,13 +46,16 @@ const kevinjzea = {
 
 <h2 align="center">💼 My Projects</h2>
 
-<h4>🐾 <a href="https://pokedex.kevinjzea.com/">Pok&eacute;dex</a> </h4>
+<h4>🎮 <a href="https://tictactoe.kevinjzea.com/">TicTacToe</a></h4>
+<p>Enjoy the classic game of TicTacToe with a modern twist. Play in real-time and chat with friends with this game built using React, React Router, Node.js, Express and Socket.io. Ready for a match? Play Now ->  <a href="https://tictactoe.kevinjzea.com/">TicTacToe</a><br /><a href="https://github.com/KevinJZea/tictactoe">Link to repository</a></p>
+
+<h4>🐾 <a href="https://pokedex.kevinjzea.com/">Pok&eacute;dex</a></h4>
 <p>Explore this Pok&eacute;dex app, crafted with passion using React, TypeScript, Redux Toolkit, React Router, and pure CSS. Dive into the Pokémon world and start your adventure today! Catch 'em all here -> <a href="https://pokedex.kevinjzea.com/">Pok&eacute;dex</a><br /><a href="https://github.com/KevinJZea/pokedex">Link to repository</a>. (Desktop and mobile version available).</p>
 
-<h4>🎥 <a href="https://fakeflix-kjz.web.app/">Fakeflix</a> </h4>
+<h4>🎥 <a href="https://fakeflix-kjz.web.app/">Fakeflix</a></h4>
 <p>Netflix Clone made with HTML, CSS & JavaScript Vanilla (no frameworks nor preprocessors).<br />Watch your favorite movie/series right here -> <a href="https://fakeflix-kjz.web.app/">Fakeflix</a><br /><a href="https://github.com/KevinJZea/fakeflix">Link to repository</a>. (Desktop version available).</p>
 
-<h4>🛒 <a href="https://art-hispano.web.app/">Art-Hispano</a> </h4>
+<h4>🛒 <a href="https://art-hispano.web.app/">Art-Hispano</a></h4>
 <p>Marketplace built with React which provides to Latinamerican native communities a platform where they can share their culture and sell their crafts. Go and take a look here -> <a href="https://art-hispano.web.app/">Marketplace</a><br /><a href="https://github.com/KevinJZea/C6-art-hispano">Link to repository</a>. (Desktop version available).</p>
 
 <h4>🐊 <a href="https://learningator.web.app/">Learningator</a></h4>
